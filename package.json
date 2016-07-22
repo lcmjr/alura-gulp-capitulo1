@@ -12,6 +12,9 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.1",
-    "gulp-imagemin": "^3.0.2"
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.6.1",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-uglify": "^1.5.4"
   }
 }
